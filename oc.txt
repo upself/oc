@@ -8,6 +8,8 @@ yum install -y docker-ce --allowerasing
 systemctl start docker
 //添加开机启动
 systemctl enable docker
+暂时用以下Dockerfile：
+https://github.com/danawoodman/docker-node-hello-world.git
 ===========================================================================================
  
 注意：所有的project都需要使用developer用户来创建   
