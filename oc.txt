@@ -1,3 +1,5 @@
+yum install -y podman buildah skopeo skopeo-containers tree httpd-tools strace
+
 安装containerd.io
 yum install https://download.docker.com/linux/fedora/30/x86_64/stable/Packages/containerd.io-1.2.13-3.2.fc30.x86_64.rpm
 安装Docker
