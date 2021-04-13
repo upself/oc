@@ -1,3 +1,4 @@
+test
 yum install -y podman buildah skopeo skopeo-containers tree httpd-tools strace
 
 安装containerd.io
